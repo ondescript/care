@@ -1,5 +1,5 @@
 echo off
-title ntfs sistemler icin bakim onarim ve optmizasyoncu
+title ntfs sistemler icin bakim onarim ve optmizasyon
 color 06
 cls
 prompt $l
